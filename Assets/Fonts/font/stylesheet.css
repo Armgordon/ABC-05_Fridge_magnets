@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'HouschkaRoundedAlt 3';
+    src: url('HouschkaRoundedAlt-Regular10.eot');
+    src: local('HouschkaRoundedAlt Regular 10'), local('HouschkaRoundedAlt-Regular10'),
+        url('HouschkaRoundedAlt-Regular10.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular10.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular10.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular10.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 2';
+    src: url('HouschkaRoundedAlt-Regular11.eot');
+    src: local('HouschkaRoundedAlt Regular 11'), local('HouschkaRoundedAlt-Regular11'),
+        url('HouschkaRoundedAlt-Regular11.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular11.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular11.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular11.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt';
+    src: url('HouschkaRoundedAlt-Regular12.eot');
+    src: local('HouschkaRoundedAlt Regular 12'), local('HouschkaRoundedAlt-Regular12'),
+        url('HouschkaRoundedAlt-Regular12.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular12.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular12.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular12.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 7';
+    src: url('HouschkaRoundedAlt-Regular6.eot');
+    src: local('HouschkaRoundedAlt Regular 6'), local('HouschkaRoundedAlt-Regular6'),
+        url('HouschkaRoundedAlt-Regular6.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular6.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular6.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular6.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 9';
+    src: url('HouschkaRoundedAlt-Regular4.eot');
+    src: local('HouschkaRoundedAlt Regular 4'), local('HouschkaRoundedAlt-Regular4'),
+        url('HouschkaRoundedAlt-Regular4.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular4.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular4.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular4.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 4';
+    src: url('HouschkaRoundedAlt-Regular9.eot');
+    src: local('HouschkaRoundedAlt Regular 9'), local('HouschkaRoundedAlt-Regular9'),
+        url('HouschkaRoundedAlt-Regular9.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular9.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular9.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular9.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 5';
+    src: url('HouschkaRoundedAlt-Regular8.eot');
+    src: local('HouschkaRoundedAlt Regular 8'), local('HouschkaRoundedAlt-Regular8'),
+        url('HouschkaRoundedAlt-Regular8.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular8.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular8.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular8.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 8';
+    src: url('HouschkaRoundedAlt-Regular5.eot');
+    src: local('HouschkaRoundedAlt Regular 5'), local('HouschkaRoundedAlt-Regular5'),
+        url('HouschkaRoundedAlt-Regular5.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular5.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular5.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular5.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 6';
+    src: url('HouschkaRoundedAlt-Regular7.eot');
+    src: local('HouschkaRoundedAlt Regular 7'), local('HouschkaRoundedAlt-Regular7'),
+        url('HouschkaRoundedAlt-Regular7.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular7.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular7.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 10';
+    src: url('HouschkaRoundedAlt-Regular3.eot');
+    src: local('HouschkaRoundedAlt Regular 3'), local('HouschkaRoundedAlt-Regular3'),
+        url('HouschkaRoundedAlt-Regular3.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular3.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular3.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt 11';
+    src: url('HouschkaRoundedAlt-Regular2.eot');
+    src: local('HouschkaRoundedAlt Regular 2'), local('HouschkaRoundedAlt-Regular2'),
+        url('HouschkaRoundedAlt-Regular2.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-Regular2.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-Regular2.woff') format('woff'),
+        url('HouschkaRoundedAlt-Regular2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HouschkaRoundedAlt';
+    src: url('HouschkaRoundedAlt-MediumItalic.eot');
+    src: local('HouschkaRoundedAlt-MediumItalic'),
+        url('HouschkaRoundedAlt-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('HouschkaRoundedAlt-MediumItalic.woff2') format('woff2'),
+        url('HouschkaRoundedAlt-MediumItalic.woff') format('woff'),
+        url('HouschkaRoundedAlt-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+

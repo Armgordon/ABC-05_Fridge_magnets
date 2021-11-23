@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f26a1feb3b043d74ebdc7a99c8d64f82
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HouschkaRoundedAlt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 628df8b7c7641f6428ccaeddc8435c46, type: 3}
+  - {fileID: 12800000, guid: 303ee1a31a3b7d6459c0e6db1f7e486d, type: 3}
+  - {fileID: 12800000, guid: 024dd45cc2cf648468e140388e22d62c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
